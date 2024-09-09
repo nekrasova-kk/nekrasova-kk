@@ -28,7 +28,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/nekrasova-kk/Mobile-game)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|pandas, numpy, seaborn,  matplotlib, scipy, requests|
-|Проект 2 E-commerce  (__[github]()__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas, seaborn, matplotlib, plotly express|
+|Проект 2 E-commerce  (__[github](https://github.com/nekrasova-kk/E-commerce)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas, seaborn, matplotlib, plotly express|
 <hr>
 
 ### :hammer_and_wrench: Языки и инструменты :
